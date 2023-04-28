@@ -5,7 +5,7 @@
 ### [Cheat Sheets](https://github.com/jupitersinsight/csec/tree/main/web-pentest/cheat-sheet)
 ### [Knowledge Base](https://github.com/jupitersinsight/csec/tree/main/web-pentest/kb)
 ### [Remediations](https://github.com/jupitersinsight/csec/tree/main/web-pentest/remediations)
-### [Web Application Hacker Handbook Exercises](https://github.com/jupitersinsight/csec/tree/main/web-pentest/wahh)
+### [Web Application Hacker's Handbook Exercises](https://github.com/jupitersinsight/csec/tree/main/web-pentest/wahh)
 
 ### Labs
 [**PortSwigger Academy Labs**](https://github.com/jupitersinsight/csec/tree/main/web-pentest/portswigger-academy)
