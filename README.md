@@ -21,6 +21,7 @@
 - [Cross-Site Scripting](https://github.com/jupitersinsight/csec/tree/main/web-pentest/portswigger-academy/xss)
 - [XML External Entity](https://github.com/jupitersinsight/csec/tree/main/web-pentest/portswigger-academy/xxe)
 - [Cross-Site Request Forgery](https://github.com/jupitersinsight/csec/tree/main/web-pentest/portswigger-academy/csrf)
+- [Cross-Origin Resource Sharing](https://github.com/jupitersinsight/csec/tree/main/web-pentest/portswigger-academy/cors)
 
 ## System Security
 
