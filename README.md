@@ -1,4 +1,4 @@
-# CSEC - Defensive and Offensive
+# InfoSec - Defensive and Offensive
 
 ## Web Application Security
 
